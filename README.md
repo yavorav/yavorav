@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yavorav
-- 👀 I’m interested in fun code projects that help me learn something new
+- 👀 I’m interested in coding projects that challenge me with something new
 - 🌱 I’m currently learning python, SQL
 - 😄 Pronouns: She/Her
 <!---
